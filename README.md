@@ -2,7 +2,7 @@
 
 Root cause analysis of Microsoft's Tay AI Bot - University assignment 
 
-|Authors | Course Programme | Academic Year | Module | Course | Pubication Date | Grade |
+|Authors | Course Programme | Academic Year | Module | Course | Publication Date | Grade |
 | --- | --- | --- | --- |--- |--- |--- |
 | R. Voetman, J. Mellema | Information and Communication Technology | 2019-2020 | Software Engineering | Academic Writing | March 29, 2020 | 95 / 100 (A+) |
 
